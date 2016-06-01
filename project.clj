@@ -1,4 +1,4 @@
-(defproject hiccup-font-awesome "0.1.0-SNAPSHOT"
+(defproject hiccup-font-awesome "0.1.0"
   :description "Hiccup functions for Font Awesome"
   :url "https://github.com/matsu911/hiccup-font-awesome"
   :license {:name "Eclipse Public License"
